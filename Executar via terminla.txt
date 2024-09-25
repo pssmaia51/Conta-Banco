@@ -1,0 +1,2 @@
+cd C:\Trilha Java Basico\ContaBanco\Conta-Banco\bin
+C:\Trilha Java Basico\ContaBanco\Conta-Banco\bin>java ContaTerminal
